@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/07/2026 06:55 PM",
+  "last_updated": "22/07/2026 08:06 PM",
   "summary": {
     "total_facilities": 309,
     "high_risk_count": 8,
@@ -2370,7 +2370,7 @@
         "today_mm": 48.5,
         "1h_mm": null,
         "3h_mm": null,
-        "time": "23/07/2026 01:45"
+        "time": "23/07/2026 02:00"
       },
       "nearest_hotspot": {
         "location": "Kg. Pinang",
@@ -11422,7 +11422,7 @@
       "rf_today": 0.0,
       "rf_1h": 0.0,
       "rf_3h": 0.0,
-      "rf_time": "23/07/2026 01:00"
+      "rf_time": "23/07/2026 02:00"
     },
     {
       "id": "6307180_",
@@ -12513,6 +12513,57 @@
       "rf_time": "23/05/2025 11:55"
     },
     {
+      "id": "5808001_",
+      "name": "Bt. 61 Jln. Baling",
+      "type": "RF",
+      "latitude": 5.872233,
+      "longitude": 100.89125,
+      "district": "Baling",
+      "wl_level": null,
+      "wl_status": "Normal",
+      "wl_trend": "Stable",
+      "wl_time": "",
+      "rf_status": "No Rainfall",
+      "rf_today": 0.0,
+      "rf_1h": 0.0,
+      "rf_3h": 0.0,
+      "rf_time": "23/07/2026 02:00"
+    },
+    {
+      "id": "5505085_",
+      "name": "SK Sri Pinang",
+      "type": "RF",
+      "latitude": 5.595983,
+      "longitude": 100.542841,
+      "district": "Kuala Muda",
+      "wl_level": null,
+      "wl_status": "Normal",
+      "wl_trend": "Stable",
+      "wl_time": "",
+      "rf_status": "No Rainfall",
+      "rf_today": 0.0,
+      "rf_1h": 0.0,
+      "rf_3h": 0.0,
+      "rf_time": "23/07/2026 02:00"
+    },
+    {
+      "id": "5907401_",
+      "name": "Empangan Beris (RTB)",
+      "type": "RF",
+      "latitude": 5.969189,
+      "longitude": 100.741321,
+      "district": "Sik",
+      "wl_level": null,
+      "wl_status": "Normal",
+      "wl_trend": "Stable",
+      "wl_time": "",
+      "rf_status": "Error",
+      "rf_today": 48.5,
+      "rf_1h": null,
+      "rf_3h": null,
+      "rf_time": "23/07/2026 02:00"
+    },
+    {
       "id": "28504",
       "name": "Kg. Kemangi (SIDES)",
       "type": "RF",
@@ -12530,62 +12581,11 @@
       "rf_time": "23/07/2026 01:45"
     },
     {
-      "id": "5907401_",
-      "name": "Empangan Beris (RTB)",
-      "type": "RF",
-      "latitude": 5.969189,
-      "longitude": 100.741321,
-      "district": "Sik",
-      "wl_level": null,
-      "wl_status": "Normal",
-      "wl_trend": "Stable",
-      "wl_time": "",
-      "rf_status": "Error",
-      "rf_today": 48.5,
-      "rf_1h": null,
-      "rf_3h": null,
-      "rf_time": "23/07/2026 01:45"
-    },
-    {
-      "id": "5808001_",
-      "name": "Bt. 61 Jln. Baling",
-      "type": "RF",
-      "latitude": 5.872233,
-      "longitude": 100.89125,
-      "district": "Baling",
-      "wl_level": null,
-      "wl_status": "Normal",
-      "wl_trend": "Stable",
-      "wl_time": "",
-      "rf_status": "No Rainfall",
-      "rf_today": 0.0,
-      "rf_1h": 0.0,
-      "rf_3h": 0.0,
-      "rf_time": "23/07/2026 01:00"
-    },
-    {
       "id": "26172",
       "name": "Sg. Gurun Upper",
       "type": "RF",
       "latitude": 5.801722,
       "longitude": 100.4799,
-      "district": "Kuala Muda",
-      "wl_level": null,
-      "wl_status": "Normal",
-      "wl_trend": "Stable",
-      "wl_time": "",
-      "rf_status": "No Rainfall",
-      "rf_today": 0.0,
-      "rf_1h": 0.0,
-      "rf_3h": 0.0,
-      "rf_time": "23/07/2026 01:00"
-    },
-    {
-      "id": "5505085_",
-      "name": "SK Sri Pinang",
-      "type": "RF",
-      "latitude": 5.595983,
-      "longitude": 100.542841,
       "district": "Kuala Muda",
       "wl_level": null,
       "wl_status": "Normal",
