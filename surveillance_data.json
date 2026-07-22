@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/07/2026 05:46 PM",
+  "last_updated": "22/07/2026 06:55 PM",
   "summary": {
     "total_facilities": 309,
     "high_risk_count": 8,
@@ -873,9 +873,9 @@
         "name": "Sg. Ketil di Kuala Pegang",
         "distance_m": 2300.0,
         "status": "Normal",
-        "level": 33.93,
-        "trend": "Receding",
-        "time": "23/07/2026 01:15"
+        "level": 34.05,
+        "trend": "Rising",
+        "time": "23/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "5608073_",
@@ -885,7 +885,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "23/07/2026 01:15"
+        "time": "23/07/2026 01:45"
       },
       "nearest_hotspot": {
         "location": "Kg Banggol Sedang",
@@ -2370,7 +2370,7 @@
         "today_mm": 48.5,
         "1h_mm": null,
         "3h_mm": null,
-        "time": "22/07/2026 10:30"
+        "time": "23/07/2026 01:45"
       },
       "nearest_hotspot": {
         "location": "Kg. Pinang",
@@ -3018,9 +3018,9 @@
         "name": "Sg. Ketil di Kuala Pegang",
         "distance_m": 6531.2,
         "status": "Normal",
-        "level": 33.93,
-        "trend": "Receding",
-        "time": "23/07/2026 01:15"
+        "level": 34.05,
+        "trend": "Rising",
+        "time": "23/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "5608073_",
@@ -3030,7 +3030,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "23/07/2026 01:15"
+        "time": "23/07/2026 01:45"
       },
       "nearest_hotspot": {
         "location": "Kg Pajak Hj. Yunus",
@@ -3249,9 +3249,9 @@
         "name": "Sg. Ketil di Kuala Pegang",
         "distance_m": 7035.5,
         "status": "Normal",
-        "level": 33.93,
-        "trend": "Receding",
-        "time": "23/07/2026 01:15"
+        "level": 34.05,
+        "trend": "Rising",
+        "time": "23/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "5608073_",
@@ -3261,7 +3261,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "23/07/2026 01:15"
+        "time": "23/07/2026 01:45"
       },
       "nearest_hotspot": {
         "location": "Kg Sg Limau",
@@ -3316,8 +3316,8 @@
         "distance_m": 2889.6,
         "status": "Error",
         "level": 54.84,
-        "trend": "No Change",
-        "time": "23/07/2026 01:15"
+        "trend": "Rising",
+        "time": "23/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "5508001_",
@@ -3415,8 +3415,8 @@
         "distance_m": 3852.4,
         "status": "Error",
         "level": 54.84,
-        "trend": "No Change",
-        "time": "23/07/2026 01:15"
+        "trend": "Rising",
+        "time": "23/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "28504",
@@ -3426,7 +3426,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "23/07/2026 01:15"
+        "time": "23/07/2026 01:45"
       },
       "nearest_hotspot": {
         "location": "Kg Tok Weng",
@@ -3480,9 +3480,9 @@
         "name": "Sg. Ketil di Kuala Pegang",
         "distance_m": 521.4,
         "status": "Normal",
-        "level": 33.93,
-        "trend": "Receding",
-        "time": "23/07/2026 01:15"
+        "level": 34.05,
+        "trend": "Rising",
+        "time": "23/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "5608073_",
@@ -3492,7 +3492,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "23/07/2026 01:15"
+        "time": "23/07/2026 01:45"
       },
       "nearest_hotspot": {
         "location": "Kg Pajak Hj. Yunus",
@@ -3712,8 +3712,8 @@
         "distance_m": 3852.4,
         "status": "Error",
         "level": 54.84,
-        "trend": "No Change",
-        "time": "23/07/2026 01:15"
+        "trend": "Rising",
+        "time": "23/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "28504",
@@ -3723,7 +3723,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "23/07/2026 01:15"
+        "time": "23/07/2026 01:45"
       },
       "nearest_hotspot": {
         "location": "Kg Tok Weng",
@@ -4009,8 +4009,8 @@
         "distance_m": 382.0,
         "status": "Error",
         "level": 54.84,
-        "trend": "No Change",
-        "time": "23/07/2026 01:15"
+        "trend": "Rising",
+        "time": "23/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "28504",
@@ -4020,7 +4020,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "23/07/2026 01:15"
+        "time": "23/07/2026 01:45"
       },
       "nearest_hotspot": {
         "location": "Kg Tok Weng",
@@ -9256,8 +9256,8 @@
         "distance_m": 1073147.6,
         "status": "Error",
         "level": 54.84,
-        "trend": "No Change",
-        "time": "23/07/2026 01:15"
+        "trend": "Rising",
+        "time": "23/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "27350",
@@ -10377,15 +10377,15 @@
       "latitude": 5.637778,
       "longitude": 100.813333,
       "district": "Baling",
-      "wl_level": 33.93,
+      "wl_level": 34.05,
       "wl_status": "Normal",
-      "wl_trend": "Receding",
-      "wl_time": "23/07/2026 01:15",
+      "wl_trend": "Rising",
+      "wl_time": "23/07/2026 01:45",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
       "rf_1h": 0.0,
       "rf_3h": 0.0,
-      "rf_time": "23/07/2026 01:15"
+      "rf_time": "23/07/2026 01:45"
     },
     {
       "id": "28505",
@@ -10396,8 +10396,8 @@
       "district": "Baling",
       "wl_level": 54.84,
       "wl_status": "Error",
-      "wl_trend": "No Change",
-      "wl_time": "23/07/2026 01:15",
+      "wl_trend": "Rising",
+      "wl_time": "23/07/2026 01:45",
       "rf_status": "No Rainfall",
       "rf_today": null,
       "rf_1h": null,
@@ -12527,7 +12527,24 @@
       "rf_today": 0.0,
       "rf_1h": 0.0,
       "rf_3h": 0.0,
-      "rf_time": "23/07/2026 01:15"
+      "rf_time": "23/07/2026 01:45"
+    },
+    {
+      "id": "5907401_",
+      "name": "Empangan Beris (RTB)",
+      "type": "RF",
+      "latitude": 5.969189,
+      "longitude": 100.741321,
+      "district": "Sik",
+      "wl_level": null,
+      "wl_status": "Normal",
+      "wl_trend": "Stable",
+      "wl_time": "",
+      "rf_status": "Error",
+      "rf_today": 48.5,
+      "rf_1h": null,
+      "rf_3h": null,
+      "rf_time": "23/07/2026 01:45"
     },
     {
       "id": "5808001_",
@@ -13599,23 +13616,6 @@
       "rf_1h": 0.0,
       "rf_3h": 0.0,
       "rf_time": "22/07/2026 11:00"
-    },
-    {
-      "id": "5907401_",
-      "name": "Empangan Beris (RTB)",
-      "type": "RF",
-      "latitude": 5.969189,
-      "longitude": 100.741321,
-      "district": "Sik",
-      "wl_level": null,
-      "wl_status": "Normal",
-      "wl_trend": "Stable",
-      "wl_time": "",
-      "rf_status": "Error",
-      "rf_today": 48.5,
-      "rf_1h": null,
-      "rf_3h": null,
-      "rf_time": "22/07/2026 10:30"
     },
     {
       "id": "26054",
