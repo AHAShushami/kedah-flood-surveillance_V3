@@ -1,5 +1,5 @@
 {
-  "last_updated": "23/07/2026 06:56 PM",
+  "last_updated": "23/07/2026 08:09 PM",
   "summary": {
     "total_facilities": 309,
     "high_risk_count": 8,
@@ -875,7 +875,7 @@
         "status": "Normal",
         "level": 33.89,
         "trend": "Receding",
-        "time": "24/07/2026 02:30"
+        "time": "24/07/2026 02:45"
       },
       "nearest_rf": {
         "id": "5608073_",
@@ -3020,7 +3020,7 @@
         "status": "Normal",
         "level": 33.89,
         "trend": "Receding",
-        "time": "24/07/2026 02:30"
+        "time": "24/07/2026 02:45"
       },
       "nearest_rf": {
         "id": "5608073_",
@@ -3251,7 +3251,7 @@
         "status": "Normal",
         "level": 33.89,
         "trend": "Receding",
-        "time": "24/07/2026 02:30"
+        "time": "24/07/2026 02:45"
       },
       "nearest_rf": {
         "id": "5608073_",
@@ -3317,7 +3317,7 @@
         "status": "Error",
         "level": 54.83,
         "trend": "No Change",
-        "time": "24/07/2026 02:30"
+        "time": "24/07/2026 02:45"
       },
       "nearest_rf": {
         "id": "5508001_",
@@ -3416,7 +3416,7 @@
         "status": "Error",
         "level": 54.83,
         "trend": "No Change",
-        "time": "24/07/2026 02:30"
+        "time": "24/07/2026 02:45"
       },
       "nearest_rf": {
         "id": "28504",
@@ -3482,7 +3482,7 @@
         "status": "Normal",
         "level": 33.89,
         "trend": "Receding",
-        "time": "24/07/2026 02:30"
+        "time": "24/07/2026 02:45"
       },
       "nearest_rf": {
         "id": "5608073_",
@@ -3713,7 +3713,7 @@
         "status": "Error",
         "level": 54.83,
         "trend": "No Change",
-        "time": "24/07/2026 02:30"
+        "time": "24/07/2026 02:45"
       },
       "nearest_rf": {
         "id": "28504",
@@ -4010,7 +4010,7 @@
         "status": "Error",
         "level": 54.83,
         "trend": "No Change",
-        "time": "24/07/2026 02:30"
+        "time": "24/07/2026 02:45"
       },
       "nearest_rf": {
         "id": "28504",
@@ -9257,7 +9257,7 @@
         "status": "Error",
         "level": 54.83,
         "trend": "No Change",
-        "time": "24/07/2026 02:30"
+        "time": "24/07/2026 02:45"
       },
       "nearest_rf": {
         "id": "27350",
@@ -10380,7 +10380,7 @@
       "wl_level": 33.89,
       "wl_status": "Normal",
       "wl_trend": "Receding",
-      "wl_time": "24/07/2026 02:30",
+      "wl_time": "24/07/2026 02:45",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
       "rf_1h": 0.0,
@@ -10397,7 +10397,7 @@
       "wl_level": 54.83,
       "wl_status": "Error",
       "wl_trend": "No Change",
-      "wl_time": "24/07/2026 02:30",
+      "wl_time": "24/07/2026 02:45",
       "rf_status": "No Rainfall",
       "rf_today": null,
       "rf_1h": null,
