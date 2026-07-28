@@ -1,5 +1,5 @@
 {
-  "last_updated": "28/07/2026 05:52 PM",
+  "last_updated": "28/07/2026 07:04 PM",
   "summary": {
     "total_facilities": 309,
     "high_risk_count": 8,
@@ -842,7 +842,7 @@
         "status": "Normal",
         "level": 7.26,
         "trend": "No Change",
-        "time": "29/07/2026 01:15"
+        "time": "29/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "26148",
@@ -873,9 +873,9 @@
         "name": "Sg. Ketil di Kuala Pegang",
         "distance_m": 2300.0,
         "status": "Normal",
-        "level": 34.07,
+        "level": 34.09,
         "trend": "Receding",
-        "time": "29/07/2026 01:30"
+        "time": "29/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "5608073_",
@@ -885,7 +885,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "29/07/2026 01:30"
+        "time": "29/07/2026 01:45"
       },
       "nearest_hotspot": {
         "location": "Kg Banggol Sedang",
@@ -2073,7 +2073,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "29/07/2026 01:30"
+        "time": "29/07/2026 01:45"
       },
       "nearest_hotspot": {
         "location": "Kg Sg Seluang",
@@ -3018,9 +3018,9 @@
         "name": "Sg. Ketil di Kuala Pegang",
         "distance_m": 6531.2,
         "status": "Normal",
-        "level": 34.07,
+        "level": 34.09,
         "trend": "Receding",
-        "time": "29/07/2026 01:30"
+        "time": "29/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "5608073_",
@@ -3030,7 +3030,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "29/07/2026 01:30"
+        "time": "29/07/2026 01:45"
       },
       "nearest_hotspot": {
         "location": "Kg Pajak Hj. Yunus",
@@ -3249,9 +3249,9 @@
         "name": "Sg. Ketil di Kuala Pegang",
         "distance_m": 7035.5,
         "status": "Normal",
-        "level": 34.07,
+        "level": 34.09,
         "trend": "Receding",
-        "time": "29/07/2026 01:30"
+        "time": "29/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "5608073_",
@@ -3261,7 +3261,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "29/07/2026 01:30"
+        "time": "29/07/2026 01:45"
       },
       "nearest_hotspot": {
         "location": "Kg Sg Limau",
@@ -3317,7 +3317,7 @@
         "status": "Error",
         "level": 54.81,
         "trend": "No Change",
-        "time": "29/07/2026 01:30"
+        "time": "29/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "5508001_",
@@ -3416,7 +3416,7 @@
         "status": "Error",
         "level": 54.81,
         "trend": "No Change",
-        "time": "29/07/2026 01:30"
+        "time": "29/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "28504",
@@ -3426,7 +3426,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "29/07/2026 01:30"
+        "time": "29/07/2026 01:45"
       },
       "nearest_hotspot": {
         "location": "Kg Tok Weng",
@@ -3480,9 +3480,9 @@
         "name": "Sg. Ketil di Kuala Pegang",
         "distance_m": 521.4,
         "status": "Normal",
-        "level": 34.07,
+        "level": 34.09,
         "trend": "Receding",
-        "time": "29/07/2026 01:30"
+        "time": "29/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "5608073_",
@@ -3492,7 +3492,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "29/07/2026 01:30"
+        "time": "29/07/2026 01:45"
       },
       "nearest_hotspot": {
         "location": "Kg Pajak Hj. Yunus",
@@ -3713,7 +3713,7 @@
         "status": "Error",
         "level": 54.81,
         "trend": "No Change",
-        "time": "29/07/2026 01:30"
+        "time": "29/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "28504",
@@ -3723,7 +3723,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "29/07/2026 01:30"
+        "time": "29/07/2026 01:45"
       },
       "nearest_hotspot": {
         "location": "Kg Tok Weng",
@@ -4010,7 +4010,7 @@
         "status": "Error",
         "level": 54.81,
         "trend": "No Change",
-        "time": "29/07/2026 01:30"
+        "time": "29/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "28504",
@@ -4020,7 +4020,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "29/07/2026 01:30"
+        "time": "29/07/2026 01:45"
       },
       "nearest_hotspot": {
         "location": "Kg Tok Weng",
@@ -5198,7 +5198,7 @@
         "status": "Normal",
         "level": 7.26,
         "trend": "No Change",
-        "time": "29/07/2026 01:15"
+        "time": "29/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "26148",
@@ -7221,7 +7221,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "29/07/2026 01:30"
+        "time": "29/07/2026 01:45"
       },
       "nearest_hotspot": {
         "location": "Kg Sg Seluang",
@@ -7254,7 +7254,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "29/07/2026 01:30"
+        "time": "29/07/2026 01:45"
       },
       "nearest_hotspot": {
         "location": "Kg Sg Seluang",
@@ -9257,7 +9257,7 @@
         "status": "Error",
         "level": 54.81,
         "trend": "No Change",
-        "time": "29/07/2026 01:30"
+        "time": "29/07/2026 01:45"
       },
       "nearest_rf": {
         "id": "27350",
@@ -10360,32 +10360,15 @@
       "latitude": 5.637778,
       "longitude": 100.813333,
       "district": "Baling",
-      "wl_level": 34.07,
+      "wl_level": 34.09,
       "wl_status": "Normal",
       "wl_trend": "Receding",
-      "wl_time": "29/07/2026 01:30",
+      "wl_time": "29/07/2026 01:45",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
       "rf_1h": 0.0,
       "rf_3h": 0.0,
-      "rf_time": "29/07/2026 01:30"
-    },
-    {
-      "id": "28505",
-      "name": "Sg.Tiak at Kg. Tiak (SIDES)",
-      "type": "WL",
-      "latitude": 5.589411,
-      "longitude": 100.879344,
-      "district": "Baling",
-      "wl_level": 54.81,
-      "wl_status": "Error",
-      "wl_trend": "No Change",
-      "wl_time": "29/07/2026 01:30",
-      "rf_status": "No Rainfall",
-      "rf_today": null,
-      "rf_1h": null,
-      "rf_3h": null,
-      "rf_time": ""
+      "rf_time": "29/07/2026 01:45"
     },
     {
       "id": "5606076_",
@@ -10397,12 +10380,29 @@
       "wl_level": 7.26,
       "wl_status": "Normal",
       "wl_trend": "No Change",
-      "wl_time": "29/07/2026 01:15",
+      "wl_time": "29/07/2026 01:45",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
       "rf_1h": 0.0,
       "rf_3h": 0.0,
-      "rf_time": "29/07/2026 01:15"
+      "rf_time": "29/07/2026 01:45"
+    },
+    {
+      "id": "28505",
+      "name": "Sg.Tiak at Kg. Tiak (SIDES)",
+      "type": "WL",
+      "latitude": 5.589411,
+      "longitude": 100.879344,
+      "district": "Baling",
+      "wl_level": 54.81,
+      "wl_status": "Error",
+      "wl_trend": "No Change",
+      "wl_time": "29/07/2026 01:45",
+      "rf_status": "No Rainfall",
+      "rf_today": null,
+      "rf_1h": null,
+      "rf_3h": null,
+      "rf_time": ""
     },
     {
       "id": "27345",
@@ -12510,7 +12510,7 @@
       "rf_today": 0.0,
       "rf_1h": 0.0,
       "rf_3h": 0.0,
-      "rf_time": "29/07/2026 01:30"
+      "rf_time": "29/07/2026 01:45"
     },
     {
       "id": "26054",
@@ -12527,7 +12527,7 @@
       "rf_today": 0.0,
       "rf_1h": 0.0,
       "rf_3h": 0.0,
-      "rf_time": "29/07/2026 01:30"
+      "rf_time": "29/07/2026 01:45"
     },
     {
       "id": "5808001_",
