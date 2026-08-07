@@ -1,5 +1,5 @@
 {
-  "last_updated": "07/08/2026 03:42 PM",
+  "last_updated": "07/08/2026 04:40 PM",
   "summary": {
     "total_facilities": 309,
     "high_risk_count": 8,
@@ -149,7 +149,7 @@
         "status": "Alert",
         "level": 1.41,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "6103147_",
@@ -423,7 +423,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_hotspot": {
         "location": "Kg. Jelatang",
@@ -512,7 +512,7 @@
         "status": "Alert",
         "level": 1.51,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "27261",
@@ -576,9 +576,9 @@
         "name": "Sg. Bata di Kg. Bata",
         "distance_m": 1410.2,
         "status": "Normal",
-        "level": 7.6,
+        "level": 7.65,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "6204180_",
@@ -588,7 +588,7 @@
         "today_mm": 18.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_hotspot": {
         "location": "Kg. Belukar/Kg. Padang/Taman Sri Utama",
@@ -1139,7 +1139,7 @@
         "status": "Alert",
         "level": 1.41,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "6103147_",
@@ -1271,7 +1271,7 @@
         "status": "Alert",
         "level": 1.51,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "27261",
@@ -1370,7 +1370,7 @@
         "status": "Alert",
         "level": 1.51,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "27259",
@@ -1403,7 +1403,7 @@
         "status": "Alert",
         "level": 1.41,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "27259",
@@ -1436,7 +1436,7 @@
         "status": "Alert",
         "level": 1.51,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "27259",
@@ -1929,9 +1929,9 @@
         "name": "Sg. Bata di Kg. Bata",
         "distance_m": 7339.4,
         "status": "Normal",
-        "level": 7.6,
+        "level": 7.65,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "25962",
@@ -2062,7 +2062,7 @@
         "distance_m": 5387.9,
         "status": "Normal",
         "level": -2.62,
-        "trend": "No Change",
+        "trend": "Receding",
         "time": "07/08/2026 22:45"
       },
       "nearest_rf": {
@@ -2336,7 +2336,7 @@
         "status": "No Rainfall",
         "today_mm": 2.5,
         "1h_mm": 0.0,
-        "3h_mm": 2.0,
+        "3h_mm": 0.0,
         "time": "07/08/2026 22:45"
       },
       "nearest_hotspot": {
@@ -2370,7 +2370,7 @@
         "today_mm": 48.5,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_hotspot": {
         "location": "Kg. Pinang",
@@ -2391,9 +2391,9 @@
         "name": "Sg. Naka di Naka",
         "distance_m": 272.6,
         "status": "Normal",
-        "level": 30.05,
+        "level": 30.03,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "6106180_",
@@ -2403,7 +2403,7 @@
         "today_mm": 45.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_hotspot": {
         "location": "Pekan Naka",
@@ -2490,9 +2490,9 @@
         "name": "Sg. Pendang di Pondok Chegar",
         "distance_m": 9632.3,
         "status": "Normal",
-        "level": 2.38,
+        "level": 2.37,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "27315",
@@ -2997,7 +2997,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_hotspot": {
         "location": "Kg. Jelatang",
@@ -3316,7 +3316,7 @@
         "distance_m": 2889.6,
         "status": "Error",
         "level": 54.8,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "07/08/2026 22:45"
       },
       "nearest_rf": {
@@ -3415,7 +3415,7 @@
         "distance_m": 3852.4,
         "status": "Error",
         "level": 54.8,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "07/08/2026 22:45"
       },
       "nearest_rf": {
@@ -3712,7 +3712,7 @@
         "distance_m": 3852.4,
         "status": "Error",
         "level": 54.8,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "07/08/2026 22:45"
       },
       "nearest_rf": {
@@ -4009,7 +4009,7 @@
         "distance_m": 382.0,
         "status": "Error",
         "level": 54.8,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "07/08/2026 22:45"
       },
       "nearest_rf": {
@@ -4670,7 +4670,7 @@
         "status": "Normal",
         "level": 2.83,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "27360",
@@ -4901,7 +4901,7 @@
         "status": "Alert",
         "level": 1.51,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "27259",
@@ -4967,7 +4967,7 @@
         "status": "Normal",
         "level": 2.83,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "27317",
@@ -5076,7 +5076,7 @@
         "today_mm": 49.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_hotspot": {
         "location": "Kg Alor Ali",
@@ -5142,7 +5142,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_hotspot": {
         "location": "Kg.Sungai Bongkok",
@@ -5164,7 +5164,7 @@
         "distance_m": 4329.0,
         "status": "Normal",
         "level": 24.3,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "07/08/2026 22:45"
       },
       "nearest_rf": {
@@ -5340,7 +5340,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_hotspot": {
         "location": "Kg. Jelatang",
@@ -5472,7 +5472,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_hotspot": {
         "location": "Kg.Sungai Bongkok",
@@ -5934,7 +5934,7 @@
         "today_mm": 18.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_hotspot": {
         "location": "Kg. Tebing/Kg.Pahana/Kg.Makpap",
@@ -6087,9 +6087,9 @@
         "name": "Sg. Bata di Kg. Bata",
         "distance_m": 6226.1,
         "status": "Normal",
-        "level": 7.6,
+        "level": 7.65,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "25962",
@@ -6252,9 +6252,9 @@
         "name": "Sg. Bata di Kg. Bata",
         "distance_m": 8151.7,
         "status": "Normal",
-        "level": 7.6,
+        "level": 7.65,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "25962",
@@ -6880,7 +6880,7 @@
         "distance_m": 6714.3,
         "status": "Normal",
         "level": 36.24,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "07/08/2026 22:45"
       },
       "nearest_rf": {
@@ -7243,7 +7243,7 @@
         "distance_m": 4799.3,
         "status": "Normal",
         "level": -2.62,
-        "trend": "No Change",
+        "trend": "Receding",
         "time": "07/08/2026 22:45"
       },
       "nearest_rf": {
@@ -8112,7 +8112,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "07/08/2026 21:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_hotspot": {
         "location": "Kg Tandop Besar",
@@ -8331,9 +8331,9 @@
         "name": "Sg. Pendang di Pondok Chegar",
         "distance_m": 6508.2,
         "status": "Normal",
-        "level": 2.38,
+        "level": 2.37,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "27315",
@@ -8496,9 +8496,9 @@
         "name": "Sg. Pendang di Pondok Chegar",
         "distance_m": 3577.8,
         "status": "Normal",
-        "level": 2.38,
+        "level": 2.37,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "5905181_",
@@ -8508,7 +8508,7 @@
         "today_mm": 46.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_hotspot": {
         "location": "Kg. Hampar",
@@ -8529,9 +8529,9 @@
         "name": "Sg. Pendang di Pondok Chegar",
         "distance_m": 6249.2,
         "status": "Normal",
-        "level": 2.38,
+        "level": 2.37,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "5905181_",
@@ -8541,7 +8541,7 @@
         "today_mm": 46.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_hotspot": {
         "location": "Kg Tok Besah",
@@ -8564,7 +8564,7 @@
         "status": "Normal",
         "level": 1.78,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "6015180_",
@@ -8574,7 +8574,7 @@
         "today_mm": 49.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_hotspot": {
         "location": "Kg. Alor Punti",
@@ -8663,7 +8663,7 @@
         "status": "Normal",
         "level": 1.78,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "6015180_",
@@ -8673,7 +8673,7 @@
         "today_mm": 49.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_hotspot": {
         "location": "Kg. Alor Punti",
@@ -9256,7 +9256,7 @@
         "distance_m": 1073147.6,
         "status": "Error",
         "level": 54.8,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "07/08/2026 22:45"
       },
       "nearest_rf": {
@@ -9686,7 +9686,7 @@
         "status": "Normal",
         "level": 1.78,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "6015180_",
@@ -9696,7 +9696,7 @@
         "today_mm": 49.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_hotspot": {
         "location": "Kg. Alor Punti",
@@ -10016,7 +10016,7 @@
         "status": "Alert",
         "level": 1.41,
         "trend": "Rising",
-        "time": "07/08/2026 22:00"
+        "time": "07/08/2026 23:00"
       },
       "nearest_rf": {
         "id": "27259",
@@ -10157,7 +10157,7 @@
         "status": "No Rainfall",
         "today_mm": 2.5,
         "1h_mm": 0.0,
-        "3h_mm": 2.0,
+        "3h_mm": 0.0,
         "time": "07/08/2026 22:45"
       },
       "nearest_hotspot": {
@@ -10190,7 +10190,7 @@
         "status": "No Rainfall",
         "today_mm": 2.5,
         "1h_mm": 0.0,
-        "3h_mm": 2.0,
+        "3h_mm": 0.0,
         "time": "07/08/2026 22:45"
       },
       "nearest_hotspot": {
@@ -10363,7 +10363,7 @@
       "wl_level": 1.41,
       "wl_status": "Alert",
       "wl_trend": "Rising",
-      "wl_time": "07/08/2026 22:00",
+      "wl_time": "07/08/2026 23:00",
       "rf_status": "No Rainfall",
       "rf_today": null,
       "rf_1h": null,
@@ -10380,7 +10380,7 @@
       "wl_level": 1.51,
       "wl_status": "Alert",
       "wl_trend": "Rising",
-      "wl_time": "07/08/2026 22:00",
+      "wl_time": "07/08/2026 23:00",
       "rf_status": "No Rainfall",
       "rf_today": null,
       "rf_1h": null,
@@ -10420,6 +10420,108 @@
       "rf_1h": null,
       "rf_3h": 7.5,
       "rf_time": "14/07/2026 05:00"
+    },
+    {
+      "id": "6204180_",
+      "name": "Sg. Bata di Kg. Bata",
+      "type": "RF,WL",
+      "latitude": 6.283612,
+      "longitude": 100.4307,
+      "district": "Kubang Pasu",
+      "wl_level": 7.65,
+      "wl_status": "Normal",
+      "wl_trend": "Rising",
+      "wl_time": "07/08/2026 23:00",
+      "rf_status": "No Rainfall",
+      "rf_today": 18.0,
+      "rf_1h": 0.0,
+      "rf_3h": 0.0,
+      "rf_time": "07/08/2026 23:00"
+    },
+    {
+      "id": "6106180_",
+      "name": "Sg. Naka di Naka",
+      "type": "RF,WL",
+      "latitude": 6.141667,
+      "longitude": 100.67083,
+      "district": "Padang Terap",
+      "wl_level": 30.03,
+      "wl_status": "Normal",
+      "wl_trend": "Rising",
+      "wl_time": "07/08/2026 23:00",
+      "rf_status": "No Rainfall",
+      "rf_today": 45.0,
+      "rf_1h": 0.0,
+      "rf_3h": 0.0,
+      "rf_time": "07/08/2026 23:00"
+    },
+    {
+      "id": "PADANGSANAI",
+      "name": "Sg. Padang Sanai di Pdg. Sanai",
+      "type": "RF,WL",
+      "latitude": 6.341844,
+      "longitude": 100.688542,
+      "district": "Padang Terap",
+      "wl_level": 27.0,
+      "wl_status": "Normal",
+      "wl_trend": "Rising",
+      "wl_time": "07/08/2026 23:00",
+      "rf_status": "No Rainfall",
+      "rf_today": 18.0,
+      "rf_1h": 0.0,
+      "rf_3h": 0.0,
+      "rf_time": "07/08/2026 23:00"
+    },
+    {
+      "id": "6015180_",
+      "name": "Sg. Padang Kerbau di Senara",
+      "type": "RF,WL",
+      "latitude": 6.072556,
+      "longitude": 100.527278,
+      "district": "Pendang",
+      "wl_level": 1.78,
+      "wl_status": "Normal",
+      "wl_trend": "Rising",
+      "wl_time": "07/08/2026 23:00",
+      "rf_status": "No Rainfall",
+      "rf_today": 49.0,
+      "rf_1h": 0.0,
+      "rf_3h": 0.0,
+      "rf_time": "07/08/2026 23:00"
+    },
+    {
+      "id": "5905181_",
+      "name": "Sg. Pendang di Pondok Chegar",
+      "type": "RF,WL",
+      "latitude": 5.971278,
+      "longitude": 100.512472,
+      "district": "Pendang",
+      "wl_level": 2.37,
+      "wl_status": "Normal",
+      "wl_trend": "Rising",
+      "wl_time": "07/08/2026 23:00",
+      "rf_status": "No Rainfall",
+      "rf_today": 46.0,
+      "rf_1h": 0.0,
+      "rf_3h": 0.0,
+      "rf_time": "07/08/2026 23:00"
+    },
+    {
+      "id": "26166",
+      "name": "Sg. Padang Terap di Taman Tabung Haji",
+      "type": "WL",
+      "latitude": 6.206917,
+      "longitude": 100.4329,
+      "district": "Kubang Pasu",
+      "wl_level": 2.83,
+      "wl_status": "Normal",
+      "wl_trend": "Rising",
+      "wl_time": "07/08/2026 23:00",
+      "rf_status": "No Rainfall",
+      "rf_today": null,
+      "rf_1h": null,
+      "rf_3h": null,
+      "rf_time": ""
     },
     {
       "id": "27345",
@@ -10549,7 +10651,7 @@
       "district": "Kuala Muda",
       "wl_level": 7.46,
       "wl_status": "Normal",
-      "wl_trend": "Receding",
+      "wl_trend": "No Change",
       "wl_time": "07/08/2026 22:45",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -10668,7 +10770,7 @@
       "district": "Kulim",
       "wl_level": -2.62,
       "wl_status": "Normal",
-      "wl_trend": "No Change",
+      "wl_trend": "Receding",
       "wl_time": "07/08/2026 22:45",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -10719,7 +10821,7 @@
       "district": "Kulim",
       "wl_level": 36.24,
       "wl_status": "Normal",
-      "wl_trend": "Rising",
+      "wl_trend": "No Change",
       "wl_time": "07/08/2026 22:45",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -10974,7 +11076,7 @@
       "district": "Baling",
       "wl_level": 54.8,
       "wl_status": "Error",
-      "wl_trend": "Receding",
+      "wl_trend": "No Change",
       "wl_time": "07/08/2026 22:45",
       "rf_status": "No Rainfall",
       "rf_today": null,
@@ -11076,7 +11178,7 @@
       "district": "Kuala Muda",
       "wl_level": 24.3,
       "wl_status": "Normal",
-      "wl_trend": "Rising",
+      "wl_trend": "No Change",
       "wl_time": "07/08/2026 22:45",
       "rf_status": "No Rainfall",
       "rf_today": null,
@@ -11272,91 +11374,6 @@
       "rf_time": "07/08/2026 22:00"
     },
     {
-      "id": "6204180_",
-      "name": "Sg. Bata di Kg. Bata",
-      "type": "RF,WL",
-      "latitude": 6.283612,
-      "longitude": 100.4307,
-      "district": "Kubang Pasu",
-      "wl_level": 7.6,
-      "wl_status": "Normal",
-      "wl_trend": "Rising",
-      "wl_time": "07/08/2026 22:00",
-      "rf_status": "No Rainfall",
-      "rf_today": 18.0,
-      "rf_1h": 0.0,
-      "rf_3h": 0.0,
-      "rf_time": "07/08/2026 22:00"
-    },
-    {
-      "id": "6106180_",
-      "name": "Sg. Naka di Naka",
-      "type": "RF,WL",
-      "latitude": 6.141667,
-      "longitude": 100.67083,
-      "district": "Padang Terap",
-      "wl_level": 30.05,
-      "wl_status": "Normal",
-      "wl_trend": "Rising",
-      "wl_time": "07/08/2026 22:00",
-      "rf_status": "No Rainfall",
-      "rf_today": 45.0,
-      "rf_1h": 0.0,
-      "rf_3h": 0.0,
-      "rf_time": "07/08/2026 22:00"
-    },
-    {
-      "id": "PADANGSANAI",
-      "name": "Sg. Padang Sanai di Pdg. Sanai",
-      "type": "RF,WL",
-      "latitude": 6.341844,
-      "longitude": 100.688542,
-      "district": "Padang Terap",
-      "wl_level": 27.0,
-      "wl_status": "Normal",
-      "wl_trend": "Rising",
-      "wl_time": "07/08/2026 22:00",
-      "rf_status": "No Rainfall",
-      "rf_today": 18.0,
-      "rf_1h": 0.0,
-      "rf_3h": 0.0,
-      "rf_time": "07/08/2026 22:00"
-    },
-    {
-      "id": "6015180_",
-      "name": "Sg. Padang Kerbau di Senara",
-      "type": "RF,WL",
-      "latitude": 6.072556,
-      "longitude": 100.527278,
-      "district": "Pendang",
-      "wl_level": 1.78,
-      "wl_status": "Normal",
-      "wl_trend": "Rising",
-      "wl_time": "07/08/2026 22:00",
-      "rf_status": "No Rainfall",
-      "rf_today": 49.0,
-      "rf_1h": 0.0,
-      "rf_3h": 0.0,
-      "rf_time": "07/08/2026 22:00"
-    },
-    {
-      "id": "5905181_",
-      "name": "Sg. Pendang di Pondok Chegar",
-      "type": "RF,WL",
-      "latitude": 5.971278,
-      "longitude": 100.512472,
-      "district": "Pendang",
-      "wl_level": 2.38,
-      "wl_status": "Normal",
-      "wl_trend": "Rising",
-      "wl_time": "07/08/2026 22:00",
-      "rf_status": "No Rainfall",
-      "rf_today": 46.0,
-      "rf_1h": 0.0,
-      "rf_3h": 0.0,
-      "rf_time": "07/08/2026 22:00"
-    },
-    {
       "id": "BERIS",
       "name": "Empangan Beris (State)",
       "type": "RF,WL",
@@ -11391,23 +11408,6 @@
       "rf_time": ""
     },
     {
-      "id": "26166",
-      "name": "Sg. Padang Terap di Taman Tabung Haji",
-      "type": "WL",
-      "latitude": 6.206917,
-      "longitude": 100.4329,
-      "district": "Kubang Pasu",
-      "wl_level": 2.83,
-      "wl_status": "Normal",
-      "wl_trend": "Rising",
-      "wl_time": "07/08/2026 22:00",
-      "rf_status": "No Rainfall",
-      "rf_today": null,
-      "rf_1h": null,
-      "rf_3h": null,
-      "rf_time": ""
-    },
-    {
       "id": "26165",
       "name": "Sg. Tekai di Kg. Sireh",
       "type": "RF,WL",
@@ -11422,7 +11422,7 @@
       "rf_today": 0.0,
       "rf_1h": 0.0,
       "rf_3h": 0.0,
-      "rf_time": "07/08/2026 21:00"
+      "rf_time": "07/08/2026 23:00"
     },
     {
       "id": "26171",
@@ -12513,6 +12513,108 @@
       "rf_time": "23/05/2025 11:55"
     },
     {
+      "id": "5808001_",
+      "name": "Bt. 61 Jln. Baling",
+      "type": "RF",
+      "latitude": 5.872233,
+      "longitude": 100.89125,
+      "district": "Baling",
+      "wl_level": null,
+      "wl_status": "Normal",
+      "wl_trend": "Stable",
+      "wl_time": "",
+      "rf_status": "No Rainfall",
+      "rf_today": 7.0,
+      "rf_1h": 0.0,
+      "rf_3h": 0.0,
+      "rf_time": "07/08/2026 23:00"
+    },
+    {
+      "id": "26172",
+      "name": "Sg. Gurun Upper",
+      "type": "RF",
+      "latitude": 5.801722,
+      "longitude": 100.4799,
+      "district": "Kuala Muda",
+      "wl_level": null,
+      "wl_status": "Normal",
+      "wl_trend": "Stable",
+      "wl_time": "",
+      "rf_status": "No Rainfall",
+      "rf_today": 0.0,
+      "rf_1h": 0.0,
+      "rf_3h": 0.0,
+      "rf_time": "07/08/2026 23:00"
+    },
+    {
+      "id": "5505085_",
+      "name": "SK Sri Pinang",
+      "type": "RF",
+      "latitude": 5.595983,
+      "longitude": 100.542841,
+      "district": "Kuala Muda",
+      "wl_level": null,
+      "wl_status": "Normal",
+      "wl_trend": "Stable",
+      "wl_time": "",
+      "rf_status": "No Rainfall",
+      "rf_today": 0.0,
+      "rf_1h": 0.0,
+      "rf_3h": 0.0,
+      "rf_time": "07/08/2026 23:00"
+    },
+    {
+      "id": "26163",
+      "name": "Tunnel Outfall",
+      "type": "RF",
+      "latitude": 6.183389,
+      "longitude": 100.8374,
+      "district": "Padang Terap",
+      "wl_level": null,
+      "wl_status": "Normal",
+      "wl_trend": "Stable",
+      "wl_time": "",
+      "rf_status": "No Rainfall",
+      "rf_today": 18.0,
+      "rf_1h": 0.0,
+      "rf_3h": 0.0,
+      "rf_time": "07/08/2026 23:00"
+    },
+    {
+      "id": "5907401_",
+      "name": "Empangan Beris (RTB)",
+      "type": "RF",
+      "latitude": 5.969189,
+      "longitude": 100.741321,
+      "district": "Sik",
+      "wl_level": null,
+      "wl_status": "Normal",
+      "wl_trend": "Stable",
+      "wl_time": "",
+      "rf_status": "No Rainfall",
+      "rf_today": 48.5,
+      "rf_1h": 0.0,
+      "rf_3h": 0.0,
+      "rf_time": "07/08/2026 23:00"
+    },
+    {
+      "id": "26169",
+      "name": "Kuala Teliang",
+      "type": "RF",
+      "latitude": 6.132945,
+      "longitude": 100.9116,
+      "district": "Sik",
+      "wl_level": null,
+      "wl_status": "Normal",
+      "wl_trend": "Stable",
+      "wl_time": "",
+      "rf_status": "No Rainfall",
+      "rf_today": 0.0,
+      "rf_1h": 0.0,
+      "rf_3h": 0.0,
+      "rf_time": "07/08/2026 23:00"
+    },
+    {
       "id": "28503",
       "name": "Banjaran Inas (SIDES)",
       "type": "RF",
@@ -12526,7 +12628,7 @@
       "rf_status": "No Rainfall",
       "rf_today": 2.0,
       "rf_1h": 0.0,
-      "rf_3h": 2.0,
+      "rf_3h": 0.0,
       "rf_time": "07/08/2026 22:45"
     },
     {
@@ -12543,7 +12645,7 @@
       "rf_status": "No Rainfall",
       "rf_today": 13.0,
       "rf_1h": 0.0,
-      "rf_3h": 0.5,
+      "rf_3h": 0.0,
       "rf_time": "07/08/2026 22:45"
     },
     {
@@ -13053,7 +13155,7 @@
       "rf_status": "No Rainfall",
       "rf_today": 2.5,
       "rf_1h": 0.0,
-      "rf_3h": 2.0,
+      "rf_3h": 0.0,
       "rf_time": "07/08/2026 22:45"
     },
     {
@@ -13414,57 +13516,6 @@
       "rf_time": "07/08/2026 22:30"
     },
     {
-      "id": "5808001_",
-      "name": "Bt. 61 Jln. Baling",
-      "type": "RF",
-      "latitude": 5.872233,
-      "longitude": 100.89125,
-      "district": "Baling",
-      "wl_level": null,
-      "wl_status": "Normal",
-      "wl_trend": "Stable",
-      "wl_time": "",
-      "rf_status": "No Rainfall",
-      "rf_today": 7.0,
-      "rf_1h": 0.0,
-      "rf_3h": 0.0,
-      "rf_time": "07/08/2026 22:00"
-    },
-    {
-      "id": "26172",
-      "name": "Sg. Gurun Upper",
-      "type": "RF",
-      "latitude": 5.801722,
-      "longitude": 100.4799,
-      "district": "Kuala Muda",
-      "wl_level": null,
-      "wl_status": "Normal",
-      "wl_trend": "Stable",
-      "wl_time": "",
-      "rf_status": "No Rainfall",
-      "rf_today": 0.0,
-      "rf_1h": 0.0,
-      "rf_3h": 0.0,
-      "rf_time": "07/08/2026 22:00"
-    },
-    {
-      "id": "5505085_",
-      "name": "SK Sri Pinang",
-      "type": "RF",
-      "latitude": 5.595983,
-      "longitude": 100.542841,
-      "district": "Kuala Muda",
-      "wl_level": null,
-      "wl_status": "Normal",
-      "wl_trend": "Stable",
-      "wl_time": "",
-      "rf_status": "No Rainfall",
-      "rf_today": 0.0,
-      "rf_1h": 0.0,
-      "rf_3h": 0.0,
-      "rf_time": "07/08/2026 22:00"
-    },
-    {
       "id": "JPSMEKANIKAL",
       "name": "Workshop Sg. Petani",
       "type": "RF",
@@ -13482,23 +13533,6 @@
       "rf_time": "07/08/2026 22:00"
     },
     {
-      "id": "26163",
-      "name": "Tunnel Outfall",
-      "type": "RF",
-      "latitude": 6.183389,
-      "longitude": 100.8374,
-      "district": "Padang Terap",
-      "wl_level": null,
-      "wl_status": "Normal",
-      "wl_trend": "Stable",
-      "wl_time": "",
-      "rf_status": "No Rainfall",
-      "rf_today": 18.0,
-      "rf_1h": 0.0,
-      "rf_3h": 0.0,
-      "rf_time": "07/08/2026 22:00"
-    },
-    {
       "id": "6205181_",
       "name": "Jabi",
       "type": "RF",
@@ -13511,40 +13545,6 @@
       "wl_time": "",
       "rf_status": "No Rainfall",
       "rf_today": 10.0,
-      "rf_1h": 0.0,
-      "rf_3h": 0.0,
-      "rf_time": "07/08/2026 22:00"
-    },
-    {
-      "id": "5907401_",
-      "name": "Empangan Beris (RTB)",
-      "type": "RF",
-      "latitude": 5.969189,
-      "longitude": 100.741321,
-      "district": "Sik",
-      "wl_level": null,
-      "wl_status": "Normal",
-      "wl_trend": "Stable",
-      "wl_time": "",
-      "rf_status": "No Rainfall",
-      "rf_today": 48.5,
-      "rf_1h": 0.0,
-      "rf_3h": 0.0,
-      "rf_time": "07/08/2026 22:00"
-    },
-    {
-      "id": "26169",
-      "name": "Kuala Teliang",
-      "type": "RF",
-      "latitude": 6.132945,
-      "longitude": 100.9116,
-      "district": "Sik",
-      "wl_level": null,
-      "wl_status": "Normal",
-      "wl_trend": "Stable",
-      "wl_time": "",
-      "rf_status": "No Rainfall",
-      "rf_today": 0.0,
       "rf_1h": 0.0,
       "rf_3h": 0.0,
       "rf_time": "07/08/2026 22:00"
@@ -15113,7 +15113,7 @@
       "district": "Kota Setar",
       "wl_level": 1.41,
       "wl_status": "Alert",
-      "wl_time": "07/08/2026 22:00",
+      "wl_time": "07/08/2026 23:00",
       "trend": "Rising",
       "rf_severity": "No Rainfall",
       "rf_today": "N/A",
@@ -15126,7 +15126,7 @@
       "district": "Kota Setar",
       "wl_level": 1.51,
       "wl_status": "Alert",
-      "wl_time": "07/08/2026 22:00",
+      "wl_time": "07/08/2026 23:00",
       "trend": "Rising",
       "rf_severity": "No Rainfall",
       "rf_today": "N/A",
