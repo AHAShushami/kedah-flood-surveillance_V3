@@ -1,5 +1,5 @@
 {
-  "last_updated": "15/08/2026 06:12 PM",
+  "last_updated": "15/08/2026 06:52 PM",
   "summary": {
     "total_facilities": 309,
     "high_risk_count": 8,
@@ -4381,7 +4381,7 @@
         "distance_m": 14.7,
         "status": "No Rainfall",
         "today_mm": 0.0,
-        "1h_mm": 0.0,
+        "1h_mm": null,
         "3h_mm": 0.0,
         "time": "15/08/2026 02:30"
       },
@@ -13494,7 +13494,7 @@
       "wl_time": "",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
-      "rf_1h": 0.0,
+      "rf_1h": null,
       "rf_3h": 0.0,
       "rf_time": "15/08/2026 02:30"
     },
