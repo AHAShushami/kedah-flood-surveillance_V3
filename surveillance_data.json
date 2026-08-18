@@ -1,11 +1,11 @@
 {
-  "last_updated": "18/08/2026 05:54 AM",
+  "last_updated": "18/08/2026 06:23 AM",
   "summary": {
     "total_facilities": 309,
     "high_risk_count": 5,
     "medium_risk_count": 2,
-    "low_risk_count": 15,
-    "normal_count": 287,
+    "low_risk_count": 17,
+    "normal_count": 285,
     "active_warnings_count": 5,
     "facility_types": {
       "Jabatan Kesihatan Negeri (JKN)": 1,
@@ -107,8 +107,8 @@
       "district": "Bandar Baharu",
       "latitude": 5.2126261,
       "longitude": 100.6160723,
-      "risk_level": "NORMAL",
-      "risk_reason": "No active warnings nearby.",
+      "risk_level": "LOW",
+      "risk_reason": "Moderate local rainfall at 'Pekan Serdang' (0.51km away).",
       "nearest_wl": {
         "id": "5206405_",
         "name": "Sg. Serdang di Kg. Majidee Tengah",
@@ -122,9 +122,9 @@
         "id": "5206105_",
         "name": "Pekan Serdang",
         "distance_m": 507.6,
-        "status": "No Rainfall",
+        "status": "Moderate",
         "today_mm": 70.5,
-        "1h_mm": 0.0,
+        "1h_mm": 24.0,
         "3h_mm": 70.5,
         "time": "18/08/2026 13:45"
       },
@@ -148,7 +148,7 @@
         "distance_m": 2302.4,
         "status": "Normal",
         "level": 1.16,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -511,7 +511,7 @@
         "distance_m": 4580.0,
         "status": "Normal",
         "level": 1.26,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -577,7 +577,7 @@
         "distance_m": 1410.2,
         "status": "Normal",
         "level": 6.84,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -1014,9 +1014,9 @@
         "name": "Rumah Penjaga JPS di Parit Nibong Kedah (RHN)",
         "distance_m": 689.1,
         "status": "Very Heavy",
-        "today_mm": 107.5,
+        "today_mm": 147.0,
         "1h_mm": 123.0,
-        "3h_mm": 107.5,
+        "3h_mm": 147.0,
         "time": "18/08/2026 13:45"
       },
       "nearest_hotspot": {
@@ -1049,7 +1049,7 @@
         "status": "Moderate",
         "today_mm": 28.5,
         "1h_mm": 28.5,
-        "3h_mm": 23.5,
+        "3h_mm": 28.5,
         "time": "18/08/2026 13:45"
       },
       "nearest_hotspot": {
@@ -1138,7 +1138,7 @@
         "distance_m": 2302.4,
         "status": "Normal",
         "level": 1.16,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -1270,7 +1270,7 @@
         "distance_m": 5022.3,
         "status": "Normal",
         "level": 1.26,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -1369,7 +1369,7 @@
         "distance_m": 989.5,
         "status": "Normal",
         "level": 1.26,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -1402,7 +1402,7 @@
         "distance_m": 1287.7,
         "status": "Normal",
         "level": 1.16,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -1435,7 +1435,7 @@
         "distance_m": 2835.2,
         "status": "Normal",
         "level": 1.26,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -1930,7 +1930,7 @@
         "distance_m": 7339.4,
         "status": "Normal",
         "level": 6.84,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -2006,7 +2006,7 @@
         "status": "No Rainfall",
         "today_mm": 6.0,
         "1h_mm": 0.5,
-        "3h_mm": 5.5,
+        "3h_mm": 6.0,
         "time": "18/08/2026 13:45"
       },
       "nearest_hotspot": {
@@ -2491,7 +2491,7 @@
         "distance_m": 9632.3,
         "status": "Normal",
         "level": 2.31,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -2656,7 +2656,7 @@
         "distance_m": 496.2,
         "status": "Normal",
         "level": 70.63,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "18/08/2026 13:45"
       },
       "nearest_rf": {
@@ -4100,8 +4100,8 @@
       "district": "Bandar Baharu",
       "latitude": 5.181831,
       "longitude": 100.600797,
-      "risk_level": "NORMAL",
-      "risk_reason": "No active warnings nearby.",
+      "risk_level": "LOW",
+      "risk_reason": "Moderate local rainfall at 'Pekan Serdang' (3.64km away).",
       "nearest_wl": {
         "id": "28122",
         "name": "Sg. Serdang di Kg. Majidee Tengah (F2)",
@@ -4115,9 +4115,9 @@
         "id": "5206105_",
         "name": "Pekan Serdang",
         "distance_m": 3637.3,
-        "status": "No Rainfall",
+        "status": "Moderate",
         "today_mm": 70.5,
-        "1h_mm": 0.0,
+        "1h_mm": 24.0,
         "3h_mm": 70.5,
         "time": "18/08/2026 13:45"
       },
@@ -4151,7 +4151,7 @@
         "status": "Moderate",
         "today_mm": 28.5,
         "1h_mm": 28.5,
-        "3h_mm": 23.5,
+        "3h_mm": 28.5,
         "time": "18/08/2026 13:45"
       },
       "nearest_hotspot": {
@@ -4184,7 +4184,7 @@
         "status": "Moderate",
         "today_mm": 26.5,
         "1h_mm": 26.5,
-        "3h_mm": 18.0,
+        "3h_mm": 26.5,
         "time": "18/08/2026 13:45"
       },
       "nearest_hotspot": {
@@ -4217,7 +4217,7 @@
         "status": "Moderate",
         "today_mm": 28.5,
         "1h_mm": 28.5,
-        "3h_mm": 23.5,
+        "3h_mm": 28.5,
         "time": "18/08/2026 13:45"
       },
       "nearest_hotspot": {
@@ -4316,7 +4316,7 @@
         "status": "No Rainfall",
         "today_mm": 6.0,
         "1h_mm": 0.5,
-        "3h_mm": 5.5,
+        "3h_mm": 6.0,
         "time": "18/08/2026 13:45"
       },
       "nearest_hotspot": {
@@ -4669,7 +4669,7 @@
         "distance_m": 1532.2,
         "status": "Normal",
         "level": 3.12,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -4735,7 +4735,7 @@
         "distance_m": 2216.5,
         "status": "Normal",
         "level": 1.14,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -4801,7 +4801,7 @@
         "distance_m": 2775.6,
         "status": "Normal",
         "level": 1.14,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -4900,7 +4900,7 @@
         "distance_m": 5894.9,
         "status": "Normal",
         "level": 1.26,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -4966,7 +4966,7 @@
         "distance_m": 4736.2,
         "status": "Normal",
         "level": 3.12,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -5032,7 +5032,7 @@
         "distance_m": 2845.4,
         "status": "Normal",
         "level": 1.14,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -5164,7 +5164,7 @@
         "distance_m": 4329.0,
         "status": "Normal",
         "level": 24.0,
-        "trend": "No Change",
+        "trend": "Receding",
         "time": "18/08/2026 13:45"
       },
       "nearest_rf": {
@@ -6088,7 +6088,7 @@
         "distance_m": 6226.1,
         "status": "Normal",
         "level": 6.84,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -6253,7 +6253,7 @@
         "distance_m": 8151.7,
         "status": "Normal",
         "level": 6.84,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -6725,7 +6725,7 @@
         "status": "No Rainfall",
         "today_mm": 6.0,
         "1h_mm": 0.5,
-        "3h_mm": 5.5,
+        "3h_mm": 6.0,
         "time": "18/08/2026 13:45"
       },
       "nearest_hotspot": {
@@ -6824,7 +6824,7 @@
         "status": "No Rainfall",
         "today_mm": 6.0,
         "1h_mm": 0.5,
-        "3h_mm": 5.5,
+        "3h_mm": 6.0,
         "time": "18/08/2026 13:45"
       },
       "nearest_hotspot": {
@@ -6880,7 +6880,7 @@
         "distance_m": 6714.3,
         "status": "Normal",
         "level": 36.4,
-        "trend": "No Change",
+        "trend": "Receding",
         "time": "18/08/2026 13:45"
       },
       "nearest_rf": {
@@ -7187,7 +7187,7 @@
         "status": "No Rainfall",
         "today_mm": 6.0,
         "1h_mm": 0.5,
-        "3h_mm": 5.5,
+        "3h_mm": 6.0,
         "time": "18/08/2026 13:45"
       },
       "nearest_hotspot": {
@@ -7286,7 +7286,7 @@
         "status": "No Rainfall",
         "today_mm": 6.0,
         "1h_mm": 0.5,
-        "3h_mm": 5.5,
+        "3h_mm": 6.0,
         "time": "18/08/2026 13:45"
       },
       "nearest_hotspot": {
@@ -7870,7 +7870,7 @@
         "distance_m": 587.6,
         "status": "Normal",
         "level": 11.09,
-        "trend": "No Change",
+        "trend": "Receding",
         "time": "18/08/2026 13:45"
       },
       "nearest_rf": {
@@ -8332,7 +8332,7 @@
         "distance_m": 6508.2,
         "status": "Normal",
         "level": 2.31,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -8497,7 +8497,7 @@
         "distance_m": 3577.8,
         "status": "Normal",
         "level": 2.31,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -8530,7 +8530,7 @@
         "distance_m": 6249.2,
         "status": "Normal",
         "level": 2.31,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -8563,7 +8563,7 @@
         "distance_m": 4043.4,
         "status": "Normal",
         "level": 1.51,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -8662,7 +8662,7 @@
         "distance_m": 3705.0,
         "status": "Normal",
         "level": 1.51,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -8794,7 +8794,7 @@
         "distance_m": 4470.0,
         "status": "Normal",
         "level": 42.33,
-        "trend": "No Change",
+        "trend": "Receding",
         "time": "18/08/2026 13:45"
       },
       "nearest_rf": {
@@ -9025,7 +9025,7 @@
         "distance_m": 3861.2,
         "status": "Normal",
         "level": 70.63,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "18/08/2026 13:45"
       },
       "nearest_rf": {
@@ -9058,7 +9058,7 @@
         "distance_m": 6510.8,
         "status": "Normal",
         "level": 42.33,
-        "trend": "No Change",
+        "trend": "Receding",
         "time": "18/08/2026 13:45"
       },
       "nearest_rf": {
@@ -9190,7 +9190,7 @@
         "distance_m": 2592.5,
         "status": "Normal",
         "level": 42.33,
-        "trend": "No Change",
+        "trend": "Receding",
         "time": "18/08/2026 13:45"
       },
       "nearest_rf": {
@@ -9685,7 +9685,7 @@
         "distance_m": 3446.9,
         "status": "Normal",
         "level": 1.51,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -9784,7 +9784,7 @@
         "distance_m": 770.1,
         "status": "Normal",
         "level": 9.26,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "18/08/2026 13:45"
       },
       "nearest_rf": {
@@ -10015,7 +10015,7 @@
         "distance_m": 1124.8,
         "status": "Normal",
         "level": 1.16,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "18/08/2026 13:00"
       },
       "nearest_rf": {
@@ -10213,7 +10213,7 @@
         "distance_m": 3196.4,
         "status": "Normal",
         "level": 76.75,
-        "trend": "Rising",
+        "trend": "Receding",
         "time": "18/08/2026 13:40"
       },
       "nearest_rf": {
@@ -10297,9 +10297,9 @@
       "wl_trend": "Stable",
       "wl_time": "",
       "rf_status": "Very Heavy",
-      "rf_today": 107.5,
+      "rf_today": 147.0,
       "rf_1h": 123.0,
-      "rf_3h": 107.5,
+      "rf_3h": 147.0,
       "rf_time": "18/08/2026 13:45"
     },
     {
@@ -10367,7 +10367,7 @@
       "rf_status": "Moderate",
       "rf_today": 26.5,
       "rf_1h": 26.5,
-      "rf_3h": 18.0,
+      "rf_3h": 26.5,
       "rf_time": "18/08/2026 13:45"
     },
     {
@@ -10405,6 +10405,23 @@
       "rf_time": "14/07/2026 05:00"
     },
     {
+      "id": "5206105_",
+      "name": "Pekan Serdang",
+      "type": "RF",
+      "latitude": 5.21276,
+      "longitude": 100.61149,
+      "district": "Bandar Baharu",
+      "wl_level": null,
+      "wl_status": "Normal",
+      "wl_trend": "Stable",
+      "wl_time": "",
+      "rf_status": "Moderate",
+      "rf_today": 70.5,
+      "rf_1h": 24.0,
+      "rf_3h": 70.5,
+      "rf_time": "18/08/2026 13:45"
+    },
+    {
       "id": "27351",
       "name": "Sek.Keb. Permatang Kerat Telunjuk (F2)",
       "type": "RF",
@@ -10418,7 +10435,7 @@
       "rf_status": "Moderate",
       "rf_today": 28.5,
       "rf_1h": 28.5,
-      "rf_3h": 23.5,
+      "rf_3h": 28.5,
       "rf_time": "18/08/2026 13:45"
     },
     {
@@ -10464,7 +10481,7 @@
       "district": "Baling",
       "wl_level": 80.99,
       "wl_status": "Normal",
-      "wl_trend": "Receding",
+      "wl_trend": "No Change",
       "wl_time": "18/08/2026 13:45",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -10498,7 +10515,7 @@
       "district": "Baling",
       "wl_level": 33.59,
       "wl_status": "Normal",
-      "wl_trend": "Rising",
+      "wl_trend": "No Change",
       "wl_time": "18/08/2026 13:45",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -10583,7 +10600,7 @@
       "district": "Kubang Pasu",
       "wl_level": 9.26,
       "wl_status": "Normal",
-      "wl_trend": "Receding",
+      "wl_trend": "No Change",
       "wl_time": "18/08/2026 13:45",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -10639,7 +10656,7 @@
       "rf_status": "No Rainfall",
       "rf_today": 6.0,
       "rf_1h": 0.5,
-      "rf_3h": 5.5,
+      "rf_3h": 6.0,
       "rf_time": "18/08/2026 13:45"
     },
     {
@@ -10668,7 +10685,7 @@
       "district": "Kulim",
       "wl_level": 36.4,
       "wl_status": "Normal",
-      "wl_trend": "No Change",
+      "wl_trend": "Receding",
       "wl_time": "18/08/2026 13:45",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -10736,7 +10753,7 @@
       "district": "Padang Terap",
       "wl_level": 25.02,
       "wl_status": "Normal",
-      "wl_trend": "No Change",
+      "wl_trend": "Rising",
       "wl_time": "18/08/2026 13:45",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -10821,7 +10838,7 @@
       "district": "Sik",
       "wl_level": 42.33,
       "wl_status": "Normal",
-      "wl_trend": "No Change",
+      "wl_trend": "Receding",
       "wl_time": "18/08/2026 13:45",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -10872,7 +10889,7 @@
       "district": "Baling",
       "wl_level": 33.99,
       "wl_status": "Normal",
-      "wl_trend": "Receding",
+      "wl_trend": "No Change",
       "wl_time": "18/08/2026 13:45",
       "rf_status": "No Rainfall",
       "rf_today": null,
@@ -10940,7 +10957,7 @@
       "district": "Kuala Muda",
       "wl_level": 24.0,
       "wl_status": "Normal",
-      "wl_trend": "No Change",
+      "wl_trend": "Receding",
       "wl_time": "18/08/2026 13:45",
       "rf_status": "No Rainfall",
       "rf_today": null,
@@ -11059,7 +11076,7 @@
       "district": "Padang Terap",
       "wl_level": 11.09,
       "wl_status": "Normal",
-      "wl_trend": "No Change",
+      "wl_trend": "Receding",
       "wl_time": "18/08/2026 13:45",
       "rf_status": "No Rainfall",
       "rf_today": null,
@@ -11076,7 +11093,7 @@
       "district": "Sik",
       "wl_level": 70.63,
       "wl_status": "Normal",
-      "wl_trend": "Receding",
+      "wl_trend": "No Change",
       "wl_time": "18/08/2026 13:45",
       "rf_status": "No Rainfall",
       "rf_today": null,
@@ -11110,7 +11127,7 @@
       "district": "Padang Terap",
       "wl_level": 76.75,
       "wl_status": "Normal",
-      "wl_trend": "Rising",
+      "wl_trend": "Receding",
       "wl_time": "18/08/2026 13:40",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -11161,7 +11178,7 @@
       "district": "Kota Setar",
       "wl_level": 1.14,
       "wl_status": "Normal",
-      "wl_trend": "Rising",
+      "wl_trend": "No Change",
       "wl_time": "18/08/2026 13:00",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -11178,7 +11195,7 @@
       "district": "Kubang Pasu",
       "wl_level": 6.84,
       "wl_status": "Normal",
-      "wl_trend": "Receding",
+      "wl_trend": "No Change",
       "wl_time": "18/08/2026 13:00",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -11229,7 +11246,7 @@
       "district": "Pendang",
       "wl_level": 1.51,
       "wl_status": "Normal",
-      "wl_trend": "Receding",
+      "wl_trend": "No Change",
       "wl_time": "18/08/2026 13:00",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -11246,7 +11263,7 @@
       "district": "Pendang",
       "wl_level": 2.31,
       "wl_status": "Normal",
-      "wl_trend": "Rising",
+      "wl_trend": "No Change",
       "wl_time": "18/08/2026 13:00",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -11263,7 +11280,7 @@
       "district": "Kota Setar",
       "wl_level": 1.16,
       "wl_status": "Normal",
-      "wl_trend": "Rising",
+      "wl_trend": "No Change",
       "wl_time": "18/08/2026 13:00",
       "rf_status": "No Rainfall",
       "rf_today": null,
@@ -11280,7 +11297,7 @@
       "district": "Kota Setar",
       "wl_level": 1.26,
       "wl_status": "Normal",
-      "wl_trend": "Rising",
+      "wl_trend": "No Change",
       "wl_time": "18/08/2026 13:00",
       "rf_status": "No Rainfall",
       "rf_today": null,
@@ -11314,7 +11331,7 @@
       "district": "Kubang Pasu",
       "wl_level": 3.12,
       "wl_status": "Normal",
-      "wl_trend": "Rising",
+      "wl_trend": "No Change",
       "wl_time": "18/08/2026 13:00",
       "rf_status": "No Rainfall",
       "rf_today": null,
@@ -12649,23 +12666,6 @@
       "rf_time": "18/08/2026 13:45"
     },
     {
-      "id": "5206105_",
-      "name": "Pekan Serdang",
-      "type": "RF",
-      "latitude": 5.21276,
-      "longitude": 100.61149,
-      "district": "Bandar Baharu",
-      "wl_level": null,
-      "wl_status": "Normal",
-      "wl_trend": "Stable",
-      "wl_time": "",
-      "rf_status": "No Rainfall",
-      "rf_today": 70.5,
-      "rf_1h": 0.0,
-      "rf_3h": 70.5,
-      "rf_time": "18/08/2026 13:45"
-    },
-    {
       "id": "27716",
       "name": "Sek.Keb. Relau (F2)",
       "type": "RF",
@@ -12696,7 +12696,7 @@
       "rf_status": "No Rainfall",
       "rf_today": 6.0,
       "rf_1h": 0.5,
-      "rf_3h": 5.5,
+      "rf_3h": 6.0,
       "rf_time": "18/08/2026 13:45"
     },
     {
@@ -15064,9 +15064,9 @@
       "wl_time": "18/08/2026 13:45",
       "trend": "Stable",
       "rf_severity": "Very Heavy",
-      "rf_today": 107.5,
-      "rf_24h": 107.5,
-      "rf_3d": 107.5
+      "rf_today": 147.0,
+      "rf_24h": 147.0,
+      "rf_3d": 147.0
     },
     {
       "station_id": "6397116_",
