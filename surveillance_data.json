@@ -1,5 +1,5 @@
 {
-  "last_updated": "22/08/2026 06:54 PM",
+  "last_updated": "22/08/2026 07:14 PM",
   "summary": {
     "total_facilities": 309,
     "high_risk_count": 4,
@@ -215,7 +215,7 @@
         "status": "Normal",
         "level": 5.57,
         "trend": "No Change",
-        "time": "23/08/2026 02:30"
+        "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
         "id": "27300",
@@ -346,7 +346,7 @@
         "distance_m": 783.7,
         "status": "Normal",
         "level": 1.61,
-        "trend": "No Change",
+        "trend": "Rising",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -775,7 +775,7 @@
         "distance_m": 1764.9,
         "status": "Normal",
         "level": 1.61,
-        "trend": "No Change",
+        "trend": "Rising",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -984,7 +984,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "23/08/2026 02:30"
+        "time": "23/08/2026 02:45"
       },
       "nearest_hotspot": {
         "location": "Kg Seputeh",
@@ -1204,7 +1204,7 @@
         "distance_m": 8741.0,
         "status": "Normal",
         "level": 1.61,
-        "trend": "No Change",
+        "trend": "Rising",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -1237,7 +1237,7 @@
         "distance_m": 1372.7,
         "status": "Normal",
         "level": 0.27,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -1545,7 +1545,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "23/08/2026 02:30"
+        "time": "23/08/2026 02:45"
       },
       "nearest_hotspot": {
         "location": "Kg.Sungai Bongkok",
@@ -1600,7 +1600,7 @@
         "distance_m": 3436.0,
         "status": "Normal",
         "level": 0.52,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -2062,7 +2062,7 @@
         "distance_m": 5387.9,
         "status": "Normal",
         "level": 1.63,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -2458,7 +2458,7 @@
         "distance_m": 1065.0,
         "status": "Normal",
         "level": 1.61,
-        "trend": "No Change",
+        "trend": "Rising",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -2656,7 +2656,7 @@
         "distance_m": 496.2,
         "status": "Normal",
         "level": 70.62,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -2722,7 +2722,7 @@
         "distance_m": 13435.3,
         "status": "Normal",
         "level": 1.61,
-        "trend": "No Change",
+        "trend": "Rising",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -2931,7 +2931,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "23/08/2026 02:30"
+        "time": "23/08/2026 02:45"
       },
       "nearest_hotspot": {
         "location": "Kg Singkir Genting",
@@ -3063,7 +3063,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "23/08/2026 02:30"
+        "time": "23/08/2026 02:45"
       },
       "nearest_hotspot": {
         "location": "Kg Seputeh",
@@ -3756,7 +3756,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "23/08/2026 02:30"
+        "time": "23/08/2026 02:45"
       },
       "nearest_hotspot": {
         "location": "Kg Seputeh",
@@ -4768,7 +4768,7 @@
         "distance_m": 625.3,
         "status": "Normal",
         "level": 0.27,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -4933,7 +4933,7 @@
         "distance_m": 2736.1,
         "status": "Normal",
         "level": 0.27,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -4999,7 +4999,7 @@
         "distance_m": 3163.6,
         "status": "Normal",
         "level": 0.27,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -5109,7 +5109,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "23/08/2026 02:30"
+        "time": "23/08/2026 02:45"
       },
       "nearest_hotspot": {
         "location": "Kg Singkir Genting",
@@ -5296,7 +5296,7 @@
         "distance_m": 4228.8,
         "status": "Normal",
         "level": 0.52,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -5395,7 +5395,7 @@
         "distance_m": 3453.6,
         "status": "Normal",
         "level": 11.54,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -5494,7 +5494,7 @@
         "distance_m": 1423.8,
         "status": "Normal",
         "level": 0.52,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -5604,7 +5604,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "23/08/2026 02:30"
+        "time": "23/08/2026 02:45"
       },
       "nearest_hotspot": {
         "location": "Kg. Bakar Arang",
@@ -5670,7 +5670,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "23/08/2026 02:30"
+        "time": "23/08/2026 02:45"
       },
       "nearest_hotspot": {
         "location": "Kg. Bakar Arang",
@@ -5890,7 +5890,7 @@
         "distance_m": 6258.7,
         "status": "Normal",
         "level": 41.37,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -6660,7 +6660,7 @@
         "today_mm": 0.0,
         "1h_mm": 0.0,
         "3h_mm": 0.0,
-        "time": "23/08/2026 02:30"
+        "time": "23/08/2026 02:45"
       },
       "nearest_hotspot": {
         "location": "Kg Sg Seluang",
@@ -7243,7 +7243,7 @@
         "distance_m": 4799.3,
         "status": "Normal",
         "level": 1.63,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -8002,7 +8002,7 @@
         "distance_m": 389.5,
         "status": "Normal",
         "level": 24.11,
-        "trend": "Receding",
+        "trend": "No Change",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -8167,7 +8167,7 @@
         "distance_m": 5438.9,
         "status": "Normal",
         "level": 1.61,
-        "trend": "No Change",
+        "trend": "Rising",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -8233,7 +8233,7 @@
         "distance_m": 6464.7,
         "status": "Normal",
         "level": 1.61,
-        "trend": "No Change",
+        "trend": "Rising",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -8365,7 +8365,7 @@
         "distance_m": 4628.7,
         "status": "Normal",
         "level": 1.61,
-        "trend": "No Change",
+        "trend": "Rising",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -8398,7 +8398,7 @@
         "distance_m": 5490.9,
         "status": "Normal",
         "level": 1.61,
-        "trend": "No Change",
+        "trend": "Rising",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -8431,7 +8431,7 @@
         "distance_m": 4401.6,
         "status": "Normal",
         "level": 1.61,
-        "trend": "No Change",
+        "trend": "Rising",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -8629,7 +8629,7 @@
         "distance_m": 3700.4,
         "status": "Normal",
         "level": 1.61,
-        "trend": "No Change",
+        "trend": "Rising",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -9025,7 +9025,7 @@
         "distance_m": 3861.2,
         "status": "Normal",
         "level": 70.62,
-        "trend": "Rising",
+        "trend": "No Change",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -9289,7 +9289,7 @@
         "distance_m": 5785.5,
         "status": "Normal",
         "level": 1.61,
-        "trend": "No Change",
+        "trend": "Rising",
         "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
@@ -9950,7 +9950,7 @@
         "status": "Normal",
         "level": 5.57,
         "trend": "No Change",
-        "time": "23/08/2026 02:30"
+        "time": "23/08/2026 02:45"
       },
       "nearest_rf": {
         "id": "27300",
@@ -10243,7 +10243,7 @@
       "district": "Padang Terap",
       "wl_level": 42.62,
       "wl_status": "Danger",
-      "wl_trend": "Receding",
+      "wl_trend": "Rising",
       "wl_time": "23/08/2026 02:45",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -10379,7 +10379,7 @@
       "district": "Baling",
       "wl_level": 11.54,
       "wl_status": "Normal",
-      "wl_trend": "Rising",
+      "wl_trend": "No Change",
       "wl_time": "23/08/2026 02:45",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -10549,7 +10549,7 @@
       "district": "Kubang Pasu",
       "wl_level": 41.37,
       "wl_status": "Normal",
-      "wl_trend": "Rising",
+      "wl_trend": "No Change",
       "wl_time": "23/08/2026 02:45",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -10566,7 +10566,7 @@
       "district": "Kulim",
       "wl_level": 1.63,
       "wl_status": "Normal",
-      "wl_trend": "Receding",
+      "wl_trend": "No Change",
       "wl_time": "23/08/2026 02:45",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -10685,7 +10685,7 @@
       "district": "Padang Terap",
       "wl_level": 25.01,
       "wl_status": "Normal",
-      "wl_trend": "Receding",
+      "wl_trend": "No Change",
       "wl_time": "23/08/2026 02:45",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -10702,7 +10702,7 @@
       "district": "Pendang",
       "wl_level": 1.61,
       "wl_status": "Normal",
-      "wl_trend": "No Change",
+      "wl_trend": "Rising",
       "wl_time": "23/08/2026 02:45",
       "rf_status": "No Rainfall",
       "rf_today": 0.0,
@@ -10855,7 +10855,7 @@
       "district": "Kota Setar",
       "wl_level": 0.27,
       "wl_status": "Normal",
-      "wl_trend": "Receding",
+      "wl_trend": "No Change",
       "wl_time": "23/08/2026 02:45",
       "rf_status": "No Rainfall",
       "rf_today": null,
@@ -10923,7 +10923,24 @@
       "district": "Kuala Muda",
       "wl_level": 0.52,
       "wl_status": "Normal",
-      "wl_trend": "Receding",
+      "wl_trend": "No Change",
+      "wl_time": "23/08/2026 02:45",
+      "rf_status": "No Rainfall",
+      "rf_today": null,
+      "rf_1h": null,
+      "rf_3h": null,
+      "rf_time": ""
+    },
+    {
+      "id": "27274",
+      "name": "Sg. Tanjung Pauh di Terusan Utara MADA di Jitra (F2)",
+      "type": "WL",
+      "latitude": 6.26304,
+      "longitude": 100.426988,
+      "district": "Kubang Pasu",
+      "wl_level": 5.57,
+      "wl_status": "Normal",
+      "wl_trend": "No Change",
       "wl_time": "23/08/2026 02:45",
       "rf_status": "No Rainfall",
       "rf_today": null,
@@ -10974,7 +10991,7 @@
       "district": "Padang Terap",
       "wl_level": 24.11,
       "wl_status": "Normal",
-      "wl_trend": "Receding",
+      "wl_trend": "No Change",
       "wl_time": "23/08/2026 02:45",
       "rf_status": "No Rainfall",
       "rf_today": null,
@@ -11008,7 +11025,7 @@
       "district": "Sik",
       "wl_level": 70.62,
       "wl_status": "Normal",
-      "wl_trend": "Rising",
+      "wl_trend": "No Change",
       "wl_time": "23/08/2026 02:45",
       "rf_status": "No Rainfall",
       "rf_today": null,
@@ -11049,23 +11066,6 @@
       "rf_1h": 0.0,
       "rf_3h": 0.0,
       "rf_time": "23/08/2026 02:45"
-    },
-    {
-      "id": "27274",
-      "name": "Sg. Tanjung Pauh di Terusan Utara MADA di Jitra (F2)",
-      "type": "WL",
-      "latitude": 6.26304,
-      "longitude": 100.426988,
-      "district": "Kubang Pasu",
-      "wl_level": 5.57,
-      "wl_status": "Normal",
-      "wl_trend": "No Change",
-      "wl_time": "23/08/2026 02:30",
-      "rf_status": "No Rainfall",
-      "rf_today": null,
-      "rf_1h": null,
-      "rf_3h": null,
-      "rf_time": ""
     },
     {
       "id": "5608073_",
@@ -12768,6 +12768,23 @@
       "rf_time": "23/08/2026 02:45"
     },
     {
+      "id": "25955",
+      "name": "Semeling di Kedah (RHN)",
+      "type": "RF",
+      "latitude": 5.706944,
+      "longitude": 100.473611,
+      "district": "Kuala Muda",
+      "wl_level": null,
+      "wl_status": "Normal",
+      "wl_trend": "Stable",
+      "wl_time": "",
+      "rf_status": "No Rainfall",
+      "rf_today": 0.0,
+      "rf_1h": 0.0,
+      "rf_3h": 0.0,
+      "rf_time": "23/08/2026 02:45"
+    },
+    {
       "id": "27262",
       "name": "Kg. Padang Panjang (F2)",
       "type": "RF",
@@ -12904,6 +12921,23 @@
       "rf_time": "23/08/2026 02:45"
     },
     {
+      "id": "27325",
+      "name": "Kulim Hi-Tech (F2)",
+      "type": "RF",
+      "latitude": 5.415639,
+      "longitude": 100.586442,
+      "district": "Kulim",
+      "wl_level": null,
+      "wl_status": "Normal",
+      "wl_trend": "Stable",
+      "wl_time": "",
+      "rf_status": "No Rainfall",
+      "rf_today": 0.0,
+      "rf_1h": 0.0,
+      "rf_3h": 0.0,
+      "rf_time": "23/08/2026 02:45"
+    },
+    {
       "id": "27310",
       "name": "Ladang Henrietta (F2)",
       "type": "RF",
@@ -12960,6 +12994,23 @@
       "type": "RF",
       "latitude": 6.283141,
       "longitude": 99.746399,
+      "district": "Langkawi",
+      "wl_level": null,
+      "wl_status": "Normal",
+      "wl_trend": "Stable",
+      "wl_time": "",
+      "rf_status": "No Rainfall",
+      "rf_today": 0.0,
+      "rf_1h": 0.0,
+      "rf_3h": 0.0,
+      "rf_time": "23/08/2026 02:45"
+    },
+    {
+      "id": "25958",
+      "name": "Ldg. Sungai Raya di Kedah (RHN)",
+      "type": "RF",
+      "latitude": 6.367778,
+      "longitude": 99.864167,
       "district": "Langkawi",
       "wl_level": null,
       "wl_status": "Normal",
@@ -13176,6 +13227,23 @@
       "rf_time": "23/08/2026 02:45"
     },
     {
+      "id": "25479",
+      "name": "Empangan Beris (RHN)",
+      "type": "RF",
+      "latitude": 5.606,
+      "longitude": 100.782,
+      "district": "Sik",
+      "wl_level": null,
+      "wl_status": "Normal",
+      "wl_trend": "Stable",
+      "wl_time": "",
+      "rf_status": "No Rainfall",
+      "rf_today": 0.0,
+      "rf_1h": 0.0,
+      "rf_3h": 0.0,
+      "rf_time": "23/08/2026 02:45"
+    },
+    {
       "id": "27301",
       "name": "Klinik Desa Kg. Chong (F2)",
       "type": "RF",
@@ -13244,80 +13312,12 @@
       "rf_time": "23/08/2026 02:45"
     },
     {
-      "id": "25955",
-      "name": "Semeling di Kedah (RHN)",
-      "type": "RF",
-      "latitude": 5.706944,
-      "longitude": 100.473611,
-      "district": "Kuala Muda",
-      "wl_level": null,
-      "wl_status": "Normal",
-      "wl_trend": "Stable",
-      "wl_time": "",
-      "rf_status": "No Rainfall",
-      "rf_today": 0.0,
-      "rf_1h": 0.0,
-      "rf_3h": 0.0,
-      "rf_time": "23/08/2026 02:30"
-    },
-    {
       "id": "5407081_",
       "name": "Hutan Lipur Rekreasi Sg. Sedim (F2)",
       "type": "RF",
       "latitude": 5.410776,
       "longitude": 100.777125,
       "district": "Kulim",
-      "wl_level": null,
-      "wl_status": "Normal",
-      "wl_trend": "Stable",
-      "wl_time": "",
-      "rf_status": "No Rainfall",
-      "rf_today": 0.0,
-      "rf_1h": 0.0,
-      "rf_3h": 0.0,
-      "rf_time": "23/08/2026 02:30"
-    },
-    {
-      "id": "27325",
-      "name": "Kulim Hi-Tech (F2)",
-      "type": "RF",
-      "latitude": 5.415639,
-      "longitude": 100.586442,
-      "district": "Kulim",
-      "wl_level": null,
-      "wl_status": "Normal",
-      "wl_trend": "Stable",
-      "wl_time": "",
-      "rf_status": "No Rainfall",
-      "rf_today": 0.0,
-      "rf_1h": 0.0,
-      "rf_3h": 0.0,
-      "rf_time": "23/08/2026 02:30"
-    },
-    {
-      "id": "25958",
-      "name": "Ldg. Sungai Raya di Kedah (RHN)",
-      "type": "RF",
-      "latitude": 6.367778,
-      "longitude": 99.864167,
-      "district": "Langkawi",
-      "wl_level": null,
-      "wl_status": "Normal",
-      "wl_trend": "Stable",
-      "wl_time": "",
-      "rf_status": "No Rainfall",
-      "rf_today": 0.0,
-      "rf_1h": 0.0,
-      "rf_3h": 0.0,
-      "rf_time": "23/08/2026 02:30"
-    },
-    {
-      "id": "25479",
-      "name": "Empangan Beris (RHN)",
-      "type": "RF",
-      "latitude": 5.606,
-      "longitude": 100.782,
-      "district": "Sik",
       "wl_level": null,
       "wl_status": "Normal",
       "wl_trend": "Stable",
@@ -15023,7 +15023,7 @@
       "wl_level": 42.62,
       "wl_status": "Danger",
       "wl_time": "23/08/2026 02:45",
-      "trend": "Receding",
+      "trend": "Rising",
       "rf_severity": "No Rainfall",
       "rf_today": 0.0,
       "rf_24h": 0.0,
